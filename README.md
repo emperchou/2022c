@@ -1,7 +1,7 @@
 # 2022c
 資傳一甲的程式倉庫
 # Week06
-## 九九乘法
+##九九乘法
 ```cpp
 #include <stdio.h>
 int main()
