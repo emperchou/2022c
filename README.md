@@ -98,7 +98,7 @@ int main()
     if("a==0") printf("不管甚麼東西,幾乎都成立\n");
 }
 ```
-#Week07
+# Week07
 ##long long int
 ```cpp
 #include <stdio.h>
