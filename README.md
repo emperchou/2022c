@@ -153,7 +153,7 @@ int main()
     }
 }
 ```
-#WEEK08
+# Week08
 ##兩個for畫星星
 ```cpp
 #include <stdio.h>
